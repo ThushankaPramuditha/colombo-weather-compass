@@ -8,7 +8,7 @@ import { useToast } from '@/hooks/use-toast';
 
 // Weather API configuration
 const WEATHER_API_KEY = 'f2cbe16dc7c045e0adf52340252206'; // Users will need to replace this
-const WEATHER_API_URL = 'https://api.weatherapi.com/v1/current.json';
+const WEATHER_API_URL = 'http://api.weatherapi.com/v1';
 
 interface WeatherData {
   location: {
