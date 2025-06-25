@@ -122,8 +122,7 @@ This project is open source and available under the MIT License.
 
 ## Live Demo
 
-[View Live Demo](https://your-deployed-app-url.com) *(Replace with your actual deployment URL)*
+[View Live Demo](https://colombo-weather-compass.vercel.app/) *(Replace with your actual deployment URL)*
 
 ---
 
-Built with ❤️ using React, TypeScript, and modern web technologies.
